@@ -1,0 +1,33 @@
+/* @media (min-width: '300px') and (max-width: '700px'){
+   body{
+        background: red
+   }
+} */
+ @media (min-width: 200px) and (max-width: 590px){
+.main_h4{
+    margin-top: 20px;;
+}
+#main{
+    width: 100%;  
+}
+
+.single-task{
+    width: 90%;
+    padding: 3px 18px;
+}
+.single-task-form{
+    width: 100%;
+    margin: 21px 0;
+}
+.id{
+        padding: 2px;
+}
+}
+@media (min-width: 591px) and (max-width: 800px){
+    #main {
+    width: 74%;
+}
+    .single-task {
+    width: 60%;
+    }
+}
